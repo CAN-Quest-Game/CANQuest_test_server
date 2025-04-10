@@ -1,0 +1,1 @@
+To make development easier, we’ve provided a testing server that you can use to connect to the game while building your own levels. The server is a simple Python script that communicates with the game by sending and receiving commands.
